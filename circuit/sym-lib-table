@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CurrentSenseDriver")(type "KiCad")(uri "${KIPRJMOD}/CurrentSenseDriver.kicad_sym")(options "")(descr ""))
+)
